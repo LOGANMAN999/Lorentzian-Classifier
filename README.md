@@ -10,6 +10,7 @@ This algorithm was created by jdehorty (Justin Dehorty) in Trading View. This is
 // gravitational warping of Space-Time. In financial markets, this warping effect 
 // operates on a continuum, which can analogously be referred to as "Price-Time".
 
+
 // To help to better account for this warping effect, Lorentzian Distance can be
 // used as an alternative distance metric to Euclidean Distance. The geometry of
 // Lorentzian Space can be difficult to visualize at first, and one of the best
