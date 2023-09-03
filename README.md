@@ -61,7 +61,7 @@ This algorithm was created by jdehorty (Justin Dehorty) in Trading View. This is
 // However, the same set of historical values measured using Lorentzian Distance will 
 // yield a different distribution that resembles Figure 2 (below).
 
-//                         
+//                        
 //                         [RSI] 
 //  ::..                     |                    ..:::  
 //   .....                   |                  ......
