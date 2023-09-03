@@ -30,6 +30,7 @@ This algorithm was created by jdehorty (Justin Dehorty) in Trading View. This is
 // Distances in Euclidean Space:
 // Measuring the Euclidean Distances of historical values with the most recent point
 // at the origin will yield a distribution that resembles Figure 1 (below).
+<pre>
 
 //                        [RSI]
 //                          |                      
@@ -95,4 +96,5 @@ This algorithm was created by jdehorty (Justin Dehorty) in Trading View. This is
 //     of outliers and noise.
 // (3) Lorentzian Distance becomes increasingly different from Euclidean Distance 
 //     as the number of nearest neighbors used for comparison increases.
+</pre>
 
